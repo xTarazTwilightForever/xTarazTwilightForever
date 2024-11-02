@@ -119,12 +119,12 @@ I'm an aspiring software and graphics developer at XR Navigation, working on acc
 
 <!--
 <h3 align="left">📚 Courses in Progress</h3>
+-->
 
-### -->
-
+###
 - Data Science
 - Machine Learning
 - AI Development
 - Computer Graphics and AR
 - Roadmap.sh Learning Paths
--->
+

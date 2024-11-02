@@ -15,12 +15,18 @@
 
 ###
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername&" />
+</div>
+
+###
+
 <h3 align="left">👨‍💻 About Me</h3>
 
 ###
 
 <p align="left">
-I'm an aspiring software developer at XR Navigation, working on creating accessible technology for the visually impaired. I specialize in audio applications and assistive technologies. I am proficient in Python and C# and am continually expanding my expertise in various programming languages and frameworks.<br><br>- 🔭 Current project: Audiom<br>- 📚 Studying programming and planning to attend university in the United States</p>
+I'm an aspiring software and graphics developer at XR Navigation, working on accessible geographic maps for the visually impaired as part of the <a href="https://audiom.org/" target="_blank">Audiom project</a>. I specialize in audio applications and assistive technologies, blending these with a strong background in computer science, graphic design, and augmented reality.<br><br>- 🎓 I hold a technical diploma in Information Systems and Design and am currently pursuing a higher degree in Computer Science with a focus on graphics and augmented reality.<br>- 📚 A dedicated book enthusiast, I am constantly learning new technologies, methodologies, and reading extensively in my free time.<br>- 🔭 I am highly skilled in AI and API integration, frequently working with the latest AI tools and APIs.<br>- 🧑‍🎓 Following structured learning paths on <a href="https://roadmap.sh/" target="_blank">roadmap.sh</a> to expand my skills.<br>- 🌟 As a huge fan of Twilight Sparkle, I bring a spark of creativity and enthusiasm to every project!</p>
 
 ###
 
@@ -41,6 +47,10 @@ I'm an aspiring software developer at XR Navigation, working on creating accessi
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="React logo" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="TypeScript logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js logo" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker logo" />
@@ -48,6 +58,10 @@ I'm an aspiring software developer at XR Navigation, working on creating accessi
   <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="Kubernetes logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/arduino/00979D" height="40" alt="Arduino logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=unity" height="40" alt="Unity logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=unreal" height="40" alt="Unreal Engine logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
   <img width="12" />
@@ -60,13 +74,65 @@ I'm an aspiring software developer at XR Navigation, working on creating accessi
 
 ###
 
+<h3 align="left">💻 Software Tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=blender" height="40" alt="Blender logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="Visual Studio Code logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="Visual Studio logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/wordpress/21759B" height="40" alt="WordPress logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="40" alt="Adobe Photoshop logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/adobeaftereffects/9999FF" height="40" alt="Adobe After Effects logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/adobepremierepro/9999FF" height="40" alt="Adobe Premiere Pro logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" height="40" alt="Adobe Illustrator logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/adobeindesign/FF3366" height="40" alt="Adobe InDesign logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/adobeaudition/9999FF" height="40" alt="Adobe Audition logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/adobeanimate/FF9A00" height="40" alt="Adobe Animate logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/obsidian/483699" height="40" alt="Obsidian logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/neovim/57A143" height="40" alt="Neovim logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/vim/019733" height="40" alt="Vim logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=yarn" height="40" alt="Yarn logo" />
+</div>
+
+###
+
 <h3 align="left">🌱 Interests</h3>
 
 ###
 
-- 📱 Developing assistive applications for the visually impaired
-- 💻 Building simulation and interactive software in Unity
-- 📖 Passionate about programming and continuous learning
-- 🎯 Current focus: expanding my knowledge in AI, data science, and machine learning
+- 📱 Developing accessible applications and geographic maps for the visually impaired
+- 💻 Creating graphics, simulations, and interactive software
+- 📖 Passionate reader with a focus on technical, design, and AI literature
+- 🎓 Experienced in numerous courses and ongoing education in AI, data science, and computer graphics
 
----
+###
+
+<!--
+<h3 align="left">📚 Courses in Progress</h3>
+
+###
+
+- Data Science
+- Machine Learning
+- AI Development
+- Computer Graphics and AR
+- Roadmap.sh Learning Paths
+-->

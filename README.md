@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="300" width="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
-</div>
-
 ###
 
 <h1 align="center">Hello👋 I'm Nikita Alimbayev!</h1>
@@ -92,8 +88,6 @@ I'm an aspiring software and graphics developer at XR Navigation, working on acc
   <img src="https://cdn.simpleicons.org/adobeaftereffects/9999FF" height="40" alt="Adobe After Effects logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/adobepremierepro/9999FF" height="40" alt="Adobe Premiere Pro logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="Adobe Illustrator logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/adobeindesign/FF3366" height="40" alt="Adobe InDesign logo" />
   <img width="12" />

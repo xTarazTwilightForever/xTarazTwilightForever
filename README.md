@@ -89,11 +89,11 @@ I'm an aspiring software and graphics developer at XR Navigation, working on acc
   <img width="12" />
   <img src="https://cdn.simpleicons.org/adobepremierepro/9999FF" height="40" alt="Adobe Premiere Pro logo" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="Adobe Illustrator logo" />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/adobeindesign/FF3366" height="40" alt="Adobe InDesign logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/adobeaudition/9999FF" height="40" alt="Adobe Audition logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobeanimate/FF9A00" height="40" alt="Adobe Animate logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/obsidian/483699" height="40" alt="Obsidian logo" />
   <img width="12" />

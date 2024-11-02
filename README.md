@@ -1,3 +1,7 @@
+<div align="center">
+  <img height="300" width="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
+</div>
+
 ###
 
 <h1 align="center">Hello👋 I'm Nikita Alimbayev!</h1>
@@ -15,18 +19,12 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername&" />
-</div>
-
-###
-
 <h3 align="left">👨‍💻 About Me</h3>
 
 ###
 
 <p align="left">
-I'm an aspiring software and graphics developer at XR Navigation, working on accessible geographic maps for the visually impaired as part of the <a href="https://audiom.org/" target="_blank">Audiom project</a>. I specialize in audio applications and assistive technologies, blending these with a strong background in computer science, graphic design, and augmented reality.<br><br>- 🎓 I hold a technical diploma in Information Systems and Design and am currently pursuing a higher degree in Computer Science with a focus on graphics and augmented reality.<br>- 📚 A dedicated book enthusiast, I am constantly learning new technologies, methodologies, and reading extensively in my free time.<br>- 🔭 I am highly skilled in AI and API integration, frequently working with the latest AI tools and APIs.<br>- 🧑‍🎓 Following structured learning paths on <a href="https://roadmap.sh/" target="_blank">roadmap.sh</a> to expand my skills.<br>- 🌟 As a huge fan of Twilight Sparkle, I bring a spark of creativity and enthusiasm to every project!</p>
+I'm an aspiring software and graphics developer at XR Navigation, working on accessible geographic maps for the visually impaired as part of the <a href="https://audiom.net/" target="_blank">Audiom project</a>. I specialize in audio applications and assistive technologies, blending these with a strong background in computer science, graphic design, and augmented reality.<br><br>- 🎓 I hold a technical diploma in Information Systems and Design and am currently pursuing a higher degree in Computer Science with a focus on graphics and augmented reality.<br>- 📚 A dedicated book enthusiast, I am constantly learning new technologies, methodologies, and reading extensively in my free time.<br>- 🔭 I am highly skilled in AI and API integration, frequently working with the latest AI tools and APIs.<br>- 🧑‍🎓 Following structured learning paths on <a href="https://roadmap.sh/" target="_blank">roadmap.sh</a> to expand my skills.<br>- 🌟 As a huge fan of Twilight Sparkle, I bring a spark of creativity and enthusiasm to every project!</p>
 
 ###
 
@@ -95,7 +93,7 @@ I'm an aspiring software and graphics developer at XR Navigation, working on acc
   <img width="12" />
   <img src="https://cdn.simpleicons.org/adobepremierepro/9999FF" height="40" alt="Adobe Premiere Pro logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" height="40" alt="Adobe Illustrator logo" />
+  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="Adobe Illustrator logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/adobeindesign/FF3366" height="40" alt="Adobe InDesign logo" />
   <img width="12" />
@@ -128,7 +126,7 @@ I'm an aspiring software and graphics developer at XR Navigation, working on acc
 <!--
 <h3 align="left">📚 Courses in Progress</h3>
 
-###
+### -->
 
 - Data Science
 - Machine Learning

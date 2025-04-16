@@ -118,7 +118,7 @@ I'm an aspiring software and graphics developer at XR Navigation, working on acc
 ###
 
 ### 🏆 Awards
-- **[Sonification Awards 2024 – Official Winner](https://sonification.design/projects/vision-rehabilitation-and-assistive-technology-expo-2024-exhibit-hall-map)**  
+- **[Sonification Awards 2024 – Official Winner](https://sonification.design/#Expo2024ExhibitHallMap)**  
   • *Vision Rehabilitation and Assistive Technology Expo 2024 Exhibit Hall Map*  
     Selected in **Art & Humanities** category  
     Authors: Brandon Biggs, **Nikita Alimbayev**, Sam Tupy, Christopher Toth, Bruce Walker  
